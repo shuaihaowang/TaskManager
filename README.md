@@ -29,7 +29,7 @@ Make sure you have the following installed:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/task-manager-prototype.git
+   git clone https://github.com/shuaihaowang/TaskManager.git
    cd task-manager-prototype
 
 2. Create a virtual environment (optional, but recommended)
